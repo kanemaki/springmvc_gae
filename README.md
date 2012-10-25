@@ -19,3 +19,8 @@ Pré-requisitos
 * JDK - última versão do Kit de desenvolvimento Java;
 * Eclipse - recomendamos o Eclipse justamente por contar com o plugin do Google para o GAE, facilitando o trabalho de implantação.
 * Plugin Google para Eclipse;
+
+Saiba mais
+-------
+Visite a página do projeto:
+http://www.yaw.com.br/open/projetos/springmvc-gae/
